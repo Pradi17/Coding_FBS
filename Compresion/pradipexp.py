@@ -1,0 +1,2 @@
+class PradipExc(Exception):
+    pass
