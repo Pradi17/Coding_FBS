@@ -1,0 +1,6 @@
+# print(12 & 10)
+# print(129 & 96)
+# print(12 | 10)
+# print(12 ^20)
+# print(10<<2)
+print(6>>3)
